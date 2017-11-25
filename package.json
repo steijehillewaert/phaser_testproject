@@ -1,0 +1,9 @@
+{
+  "name": "phaser_testproject",
+  "version": "1.0.0",
+  "description": "Test project with webpack and phaser",
+  "main": "index.js",
+  "repository": "https://github.com/steijehillewaert/phaser_testproject.git",
+  "author": "Steije Hillewaert <steije.hillewaert@student.howest.be>",
+  "license": "MIT"
+}
